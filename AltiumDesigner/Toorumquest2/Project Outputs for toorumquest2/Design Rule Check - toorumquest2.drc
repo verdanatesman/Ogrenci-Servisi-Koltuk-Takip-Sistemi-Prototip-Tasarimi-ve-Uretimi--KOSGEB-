@@ -1,0 +1,77 @@
+Protel Design System Design Rule Check
+PCB File : D:\Belgeler\Altium\Toorumquest2\toorumquest2.PcbDoc
+Date     : 12.02.2021
+Time     : 16:48:26
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-29(27mm,108mm) on Multi-Layer
+   Pad Free-28(27mm,33.5mm) on Multi-Layer
+   Pad Free-27(151.5mm,33.5mm) on Multi-Layer
+   Pad Free-26(151mm,108.5mm) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad *5-2(93.726mm,104.648mm) on Multi-Layer And Via (93.726mm,104.648mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :1
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (110.744mm,51.714mm) on Top Overlay And Pad *34-1(112.014mm,52.832mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (150.27mm,74.118mm) on Top Overlay And Pad *27-1(149mm,73mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (44.602mm,106.68mm) on Top Overlay And Pad *7-1(45.72mm,105.41mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (44.602mm,66.319mm) on Top Overlay And Pad *29-1(45.72mm,65.049mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (44.602mm,74.168mm) on Top Overlay And Pad *21-1(45.72mm,72.898mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (44.602mm,83.566mm) on Top Overlay And Pad *18-1(45.72mm,82.296mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (44.602mm,91.694mm) on Top Overlay And Pad *12-1(45.72mm,90.424mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (56.286mm,101.092mm) on Top Overlay And Pad *11-1(57.404mm,99.822mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (56.286mm,70.358mm) on Top Overlay And Pad *24-1(57.404mm,69.088mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (56.286mm,87.63mm) on Top Overlay And Pad *15-1(57.404mm,86.36mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (69.24mm,106.426mm) on Top Overlay And Pad *8-1(70.358mm,105.156mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (69.24mm,66.294mm) on Top Overlay And Pad *30-1(70.358mm,65.024mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (69.24mm,74.168mm) on Top Overlay And Pad *22-1(70.358mm,72.898mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (69.24mm,83.566mm) on Top Overlay And Pad *19-1(70.358mm,82.296mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (69.24mm,91.948mm) on Top Overlay And Pad *13-1(70.358mm,90.678mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (84.938mm,105.943mm) on Top Overlay And Pad *5-1(86.055mm,104.673mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (84.938mm,74.701mm) on Top Overlay And Pad *23-1(86.055mm,73.431mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (84.938mm,90.703mm) on Top Overlay And Pad *9-1(86.055mm,89.433mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.254mm) Between Arc (99.974mm,53.238mm) on Top Overlay And Pad R1-1(98.704mm,52.121mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.076mm]
+Rule Violations :19
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 20
+Waived Violations : 0
+Time Elapsed        : 00:00:01
